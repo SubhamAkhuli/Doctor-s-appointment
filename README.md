@@ -56,7 +56,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
 4. Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 5. Create a new database naming `quickbook`.
 6. Import the provided SQL file. The file is known as DATABASE DATABASE.sql located inside the source code root folder.
-7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/subham/Doctor%20appointment/.
+7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/subham/Doctor%20appointment%20booking%20system/.
 
 
 ## Screenshots
