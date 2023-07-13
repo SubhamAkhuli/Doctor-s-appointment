@@ -59,15 +59,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
 7. Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/subham/Doctor%20appointment%20booking%20system/.
 
 
-## Screenshots
 
-| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(1).jpg) | ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(2).jpg)| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(3).jpg)| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(4).jpg)|
-![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(5).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(6).jpg)|
-![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(7).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(8).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(9).jpg)|
-|--------------| --------------|   --------------|  --------------|    
-|  ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(10).jpg) | ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(11).jpg)| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(12).jpg)| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(13).jpg)|
-![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(14).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(15).jpg)|
-![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(16).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(17).jpg)|![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(18).jpg)|
 
 # The Project was developed using the following:
 
