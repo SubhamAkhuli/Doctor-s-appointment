@@ -39,7 +39,7 @@ This project helps a certain medical establishment such as a clinic or a hospita
     
 | Admin Dashboard | Doctor Dashboard | Patient Dashboard |
 | -------| -------| -------|
-| Email: `admin@gmail.com` | Email: `doctor1@gmail.com` |   Email: `subhamakhuli7586@gmail.com` | 
+| Email: `admin@gmail.com` | Email: `doctor1@gmail.com` |   Email: `patient1@gmail.com` | 
 | Password: `75` |  Password: `75` |  Password: `75` |
 | ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(14).jpg)| ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(10).jpg) |    ![](https://github.com/SubhamAkhuli/Doctor-s-appointment/blob/main/Screenshot/Screenshot(5).jpg)  |
 
