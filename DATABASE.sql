@@ -62,10 +62,10 @@ INSERT INTO `appointment` (`appoid`, `pid`, `apponum`, `scheduleid`, `appodate`)
 (1, 1, 1, 1, '2023-06-30'),
 (20, 1, 1, 8, '2023-07-01'),
 (16, 2, 1, 2, '2023-07-01'),
-(23, 3, 1, 10, '2023-07-11'),
-(24, 15, 1, 13, '2023-07-12'),
+(23, 2, 1, 10, '2023-07-11'),
+(24, 3, 1, 13, '2023-07-12'),
 (21, 2, 1, 7, '2023-07-02'),
-(25, 15, 1, 12, '2023-07-12');
+(25, 3, 1, 12, '2023-07-12');
 
 -- --------------------------------------------------------
 
@@ -113,10 +113,9 @@ CREATE TABLE `patient` (
 --
 
 INSERT INTO `patient` (`pid`, `pemail`, `pname`, `ppassword`, `paddress`, `pdob`, `ptel`) VALUES
-(2, 'patient2@gmail.com', 'patient2', '$2y$10$rxb2heAsE4ChSU9mE4icMuaN7mvPkzuonrdWcxH1WLaNgtZ59e4sS', 'root', '2023-06-01', '8250533733'),
-(1, 'subhamakhuli7586@gmail.com', 'Subham Akhuli', '$2y$10$5HId3n0qQA5bfTwXQN/YeOwxggzmLhLEnTL76i7e0gSH5ytS9sKEm', '460, R.R.PLOT Housing Society, Sector H, East Kolkata Twp', '2002-04-21', '8967967813'),
-(3, 'test1@gmail.com', 'test 1', '$2y$10$TMo0kTOgB/UJQf10VKtWjOt778SLJU1SfUeeaX4G1uQRWVhrRJjTO', 'root', '2023-07-11', '0000'),
-(15, 'test2@gmail.com', 'test 2', '$2y$10$svH/wdYceBSG.5C78Je4gO/iBLOYmoYSReqous3fYmMV2NiMBw.Xu', 'root', '2023-07-12', '0000');
+(1, 'patient1@gmail.com', 'patient2', '$2y$10$rxb2heAsE4ChSU9mE4icMuaN7mvPkzuonrdWcxH1WLaNgtZ59e4sS', 'root', '2023-06-01', '000000'),
+(2, 'patient2@gmail.com', 'test 1', '$2y$10$TMo0kTOgB/UJQf10VKtWjOt778SLJU1SfUeeaX4G1uQRWVhrRJjTO', 'root', '2023-07-11', '0000'),
+(3, 'patient3@gmail.com', 'test 2', '$2y$10$svH/wdYceBSG.5C78Je4gO/iBLOYmoYSReqous3fYmMV2NiMBw.Xu', 'root', '2023-07-12', '0000');
 
 -- --------------------------------------------------------
 
@@ -242,13 +241,12 @@ CREATE TABLE `webuser` (
 INSERT INTO `webuser` (`email`, `usertype`) VALUES
 ('doctor1@gmail.com', 'd'),
 ('doctor4@gmail.com', 'd'),
-('test1@gmail.com', 'p'),
-('subhamakhuli7586@gmail.com', 'p'),
-('patient2@gmail.com', 'p'),
+('patient3@gmail.com', 'p'),
+('patient1@gmail.com', 'p'),
 ('doctor2@gmail.com', 'd'),
 ('doctor3@gmail.com', 'd'),
 ('admin@gmail.com', 'a'),
-('test2@gmail.com', 'p');
+('patient2@gmail.com', 'p');
 
 --
 -- Indexes for dumped tables
