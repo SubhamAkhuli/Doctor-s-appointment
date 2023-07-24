@@ -113,9 +113,9 @@ CREATE TABLE `patient` (
 --
 
 INSERT INTO `patient` (`pid`, `pemail`, `pname`, `ppassword`, `paddress`, `pdob`, `ptel`) VALUES
-(1, 'patient1@gmail.com', 'patient2', '$2y$10$rxb2heAsE4ChSU9mE4icMuaN7mvPkzuonrdWcxH1WLaNgtZ59e4sS', 'root', '2023-06-01', '000000'),
-(2, 'patient2@gmail.com', 'test 1', '$2y$10$TMo0kTOgB/UJQf10VKtWjOt778SLJU1SfUeeaX4G1uQRWVhrRJjTO', 'root', '2023-07-11', '0000'),
-(3, 'patient3@gmail.com', 'test 2', '$2y$10$svH/wdYceBSG.5C78Je4gO/iBLOYmoYSReqous3fYmMV2NiMBw.Xu', 'root', '2023-07-12', '0000');
+(1, 'patient1@gmail.com', 'Patient1', '$2y$10$rxb2heAsE4ChSU9mE4icMuaN7mvPkzuonrdWcxH1WLaNgtZ59e4sS', 'root', '2023-06-01', '000000'),
+(2, 'patient2@gmail.com', 'Patient2', '$2y$10$TMo0kTOgB/UJQf10VKtWjOt778SLJU1SfUeeaX4G1uQRWVhrRJjTO', 'root', '2023-07-11', '0000'),
+(3, 'patient3@gmail.com', 'Patient3', '$2y$10$svH/wdYceBSG.5C78Je4gO/iBLOYmoYSReqous3fYmMV2NiMBw.Xu', 'root', '2023-07-12', '0000');
 
 -- --------------------------------------------------------
 
